@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! 👋 I'm THULASI SANDEEP </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thulasi-sandeep-ch/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/THULASISANDEEP"><img src="https://img.shields.io/github/followers/THULASISANDEEP?style=social"></a>
 </p>
@@ -35,8 +35,3 @@ const thulasi = {
 ✅ GitHub Stats & Analytics (Contribution streak, languages used)
 ✅ Achievements (Add your Holopin badges if applicable)
 ✅ Contact Section (Email, LinkedIn, Portfolio)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THULASISANDEEP&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=THULASISANDEEP&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THULASISANDEEP&layout=compact&theme=radical)
