@@ -35,3 +35,8 @@ const thulasi = {
 ✅ GitHub Stats & Analytics (Contribution streak, languages used)
 ✅ Achievements (Add your Holopin badges if applicable)
 ✅ Contact Section (Email, LinkedIn, Portfolio)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THULASISANDEEP&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=THULASISANDEEP&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THULASISANDEEP&layout=compact&theme=radical)
