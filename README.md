@@ -16,9 +16,7 @@
 
 ## 🚀 Skills & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,nodejs,express,spring,tailwind,thymeleaf,mysql,postgres,mongodb,redis,git,github,linux,postman,vscode,intellij" />
-</p>
+
 
 ---
 
